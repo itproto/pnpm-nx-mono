@@ -1,8 +1,0 @@
-
-> itpr-client-ui@1.0.0 build C:\ws\pnpm-nx-mono\packages\itpr-client-ui
-> npm run clean && tsc
-
-
-> itpr-client-ui@1.0.0 clean
-> rm -rf dist
-

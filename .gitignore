@@ -1,0 +1,5 @@
+# Nx cache
+.nx
+
+# Nx output logs
+nx-results.json
