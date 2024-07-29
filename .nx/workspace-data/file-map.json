@@ -9,48 +9,44 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": ".git/objects/38/faae30d7bc854f1c1c3e807b7aee763792674c",
+        "hash": "11717690238495513971"
+      },
+      {
         "file": "package.json",
-        "hash": "8414200835177074255"
+        "hash": "4269179053109679998"
       },
       {
-        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.d.ts.map",
-        "hash": "3751685381395563077"
+        "file": ".git/objects/1d/f244555a350077ff77d64f3c302a8a574b423c",
+        "hash": "16865399248837675999"
       },
       {
-        "file": ".nx/cache/13252984187245819717/source",
-        "hash": "9736643020660549596"
+        "file": ".git/objects/e3/a968c692ee6a88dee9e9c8ed982a5f3a59ea48",
+        "hash": "2388237953352151839"
       },
       {
-        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.d.ts",
-        "hash": "10685521142980809044"
+        "file": ".git/objects/b8/681e98628a8c781681c509850921a38d90f2f6",
+        "hash": "11769116166258178183"
       },
       {
-        "file": ".nx/cache/16763238483718864201/terminalOutput",
-        "hash": "6079432688028562675"
+        "file": ".git/objects/0a/8986e6d9b1d284b532e85324f7c55f4e561f77",
+        "hash": "11591527647181903923"
       },
       {
-        "file": ".git/objects/c8/551b0b5365663b1fdeb5b4f99858e68b4612d8",
-        "hash": "2590039745211680109"
-      },
-      {
-        "file": ".git/objects/36/0a237d6c503a12a88bec41ab5ac77c0d736516",
-        "hash": "17489784094700901965"
-      },
-      {
-        "file": ".git/objects/35/db6753f4745e1f94fffffed21b671ce1bd9b17",
-        "hash": "15980348858814651149"
+        "file": ".git/index",
+        "hash": "1116038020579293282"
       },
       {
         "file": ".git/objects/6a/6d4a67fb5658b17a4f188b8bbbcd526f117af4",
         "hash": "15136267890394109861"
       },
       {
-        "file": ".git/objects/7a/ea8ff6cbdc525846a80c9c0af7b3aa42bd9556",
-        "hash": "16406337297626720873"
+        "file": ".git/objects/88/16d2447c5eff59f1429a081f1771951d6eac18",
+        "hash": "13973804371083713467"
       },
       {
-        "file": "pnpm-lock.yaml",
-        "hash": "9762496564004056825"
+        "file": ".nx/cache/13252984187245819717/source",
+        "hash": "9736643020660549596"
       },
       {
         "file": ".git/objects/8d/ae1c15a99342d5f4ce90ea5af5a79258522dfc",
@@ -58,31 +54,79 @@
       },
       {
         "file": ".nx/workspace-data/file-map.json",
-        "hash": "10307867037246644219"
+        "hash": "13236412920516486898"
       },
       {
-        "file": ".git/objects/c2/27083464fb9af8955c90d2924774ee50abb547",
-        "hash": "16729066325714840819"
+        "file": ".nx/cache/13252984187245819717/code",
+        "hash": "1838281907459330133"
       },
       {
-        "file": ".nx/workspace-data/task-history.csv",
-        "hash": "7306407967327666679"
+        "file": ".nx/cache/16763238483718864201/code",
+        "hash": "1838281907459330133"
       },
       {
-        "file": ".git/objects/4a/9c8f3e702a1cfb0fc59ab5a1c6c6dd95825a8b",
-        "hash": "9699944711079335103"
+        "file": ".git/objects/b8/20ee9da97f4691ea9b684541962dd88f6d7bcb",
+        "hash": "3813101251098917754"
       },
       {
-        "file": ".nx/cache/16763238483718864201.commit",
-        "hash": "4664556114322093609"
+        "file": ".git/objects/35/c7cfab0e378130aa7c07ad180f1dafdf961476",
+        "hash": "12493006507580517763"
       },
       {
-        "file": ".git/objects/88/16d2447c5eff59f1429a081f1771951d6eac18",
-        "hash": "13973804371083713467"
+        "file": ".git/objects/f3/2a5804e292d30bedf68f62d32fb75d87e99fd9",
+        "hash": "432611365649625945"
+      },
+      {
+        "file": ".git/logs/HEAD",
+        "hash": "5851798747229196546"
+      },
+      {
+        "file": ".git/objects/b8/5de2ecc7ea0ea438513e3645f13d757b78f244",
+        "hash": "5861935133398319686"
+      },
+      {
+        "file": "nx.json",
+        "hash": "1773931191364797279"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "15622144216345941728"
+      },
+      {
+        "file": ".git/refs/heads/master",
+        "hash": "6704001669257421366"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/16763238483718864201",
+        "hash": "6079432688028562675"
+      },
+      {
+        "file": ".git/objects/c8/551b0b5365663b1fdeb5b4f99858e68b4612d8",
+        "hash": "2590039745211680109"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717/terminalOutput",
+        "hash": "9269827173129793541"
+      },
+      {
+        "file": ".git/objects/60/517fe81f8ac2556e69dd17400c207e5f5ffa9d",
+        "hash": "17595842535082427872"
+      },
+      {
+        "file": ".nx/cache/16763238483718864201/terminalOutput",
+        "hash": "6079432688028562675"
+      },
+      {
+        "file": ".git/objects/dd/43e0f03e70e529e4b7c3934042fbd84287c1df",
+        "hash": "16570341279932822354"
       },
       {
         "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/index.d.ts.map",
         "hash": "6555788897973763665"
+      },
+      {
+        "file": ".git/objects/d6/8cf017c422c09c189d1ae689ba868d164d750a",
+        "hash": "6637072269890208108"
       },
       {
         "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/index.js",
@@ -93,103 +137,196 @@
         "hash": "9736643020660549596"
       },
       {
-        "file": ".git/objects/35/c7cfab0e378130aa7c07ad180f1dafdf961476",
-        "hash": "12493006507580517763"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/16763238483718864201",
-        "hash": "6079432688028562675"
-      },
-      {
-        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.js.map",
-        "hash": "426772339905533051"
-      },
-      {
         "file": ".nx/workspace-data/project-graph.json",
         "hash": "12561555605288815190"
       },
       {
-        "file": ".git/objects/c1/7343d762fbce3e7f05c5af9c49561f7179eaaf",
-        "hash": "12595858114305976811"
+        "file": ".nx/workspace-data/task-history.csv",
+        "hash": "7306407967327666679"
       },
       {
-        "file": ".nx/cache/13252984187245819717.commit",
-        "hash": "4664556114322093609"
-      },
-      {
-        "file": ".git/objects/1d/f244555a350077ff77d64f3c302a8a574b423c",
-        "hash": "16865399248837675999"
-      },
-      {
-        "file": ".nx/cache/13252984187245819717/terminalOutput",
-        "hash": "9269827173129793541"
-      },
-      {
-        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.js",
-        "hash": "6201986566977778426"
+        "file": ".git/objects/36/0a237d6c503a12a88bec41ab5ac77c0d736516",
+        "hash": "17489784094700901965"
       },
       {
         "file": ".nx/cache/terminalOutputs/13252984187245819717",
         "hash": "9269827173129793541"
       },
       {
-        "file": ".git/objects/a3/0d8a22cd7844dd6b7be5359059baa992820305",
-        "hash": "15023610909229647330"
+        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.d.ts.map",
+        "hash": "3751685381395563077"
       },
       {
-        "file": ".git/objects/b8/681e98628a8c781681c509850921a38d90f2f6",
-        "hash": "11769116166258178183"
+        "file": ".git/objects/38/99127e001b3a6ff1840879d299c7bae624cded",
+        "hash": "11682159522074397483"
       },
       {
-        "file": ".nx/cache/13252984187245819717/code",
-        "hash": "1838281907459330133"
-      },
-      {
-        "file": ".git/objects/d6/8cf017c422c09c189d1ae689ba868d164d750a",
-        "hash": "6637072269890208108"
-      },
-      {
-        "file": ".git/objects/53/d5fa116b83b0e94f2dc23582f5cf54340f5633",
-        "hash": "7274094057070981050"
-      },
-      {
-        "file": ".git/index",
-        "hash": "1075402814368376516"
-      },
-      {
-        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/index.d.ts",
-        "hash": "17418999719399644446"
-      },
-      {
-        "file": "nx.json",
-        "hash": "1773931191364797279"
+        "file": ".git/logs/refs/heads/master",
+        "hash": "5851798747229196546"
       },
       {
         "file": "pnpm-workspace.yaml",
         "hash": "4144535033722189225"
       },
       {
-        "file": ".nx/cache/run.json",
-        "hash": "15622144216345941728"
+        "file": "pnpm-lock.yaml",
+        "hash": "9762496564004056825"
       },
       {
-        "file": ".nx/cache/16763238483718864201/code",
-        "hash": "1838281907459330133"
+        "file": ".git/objects/a6/d2c4bf4e1281ba1b71a197788f54f8b24ed5c9",
+        "hash": "3253385926686973272"
       },
       {
-        "file": ".git/objects/4e/cfc80508a963473d6cbd3ec7bca78a30cf925d",
-        "hash": "5849051127593984247"
+        "file": ".git/objects/53/d5fa116b83b0e94f2dc23582f5cf54340f5633",
+        "hash": "7274094057070981050"
       },
       {
-        "file": ".git/objects/f3/2a5804e292d30bedf68f62d32fb75d87e99fd9",
-        "hash": "432611365649625945"
+        "file": ".nx/cache/16763238483718864201.commit",
+        "hash": "4664556114322093609"
+      },
+      {
+        "file": ".git/objects/83/2db2e15c1afbb54f8d94437fa0f94dbd62138a",
+        "hash": "5036029455607067377"
+      },
+      {
+        "file": ".git/objects/a3/0d8a22cd7844dd6b7be5359059baa992820305",
+        "hash": "15023610909229647330"
+      },
+      {
+        "file": ".git/objects/4e/191af9433e2be0c22b9759430736c7289eac0e",
+        "hash": "6233247016287418742"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.d.ts",
+        "hash": "10685521142980809044"
+      },
+      {
+        "file": ".git/objects/c2/06e3e579d71e0b6105e38013f4e6b9322d35d3",
+        "hash": "9339673453469944319"
+      },
+      {
+        "file": ".git/objects/4a/9c8f3e702a1cfb0fc59ab5a1c6c6dd95825a8b",
+        "hash": "9699944711079335103"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.js.map",
+        "hash": "426772339905533051"
       },
       {
         "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/index.js.map",
         "hash": "11875490763154891236"
+      },
+      {
+        "file": ".git/objects/c2/27083464fb9af8955c90d2924774ee50abb547",
+        "hash": "16729066325714840819"
+      },
+      {
+        "file": ".git/objects/3e/b57a7a0be9dc3cf11b510714ae5d6947fe8a11",
+        "hash": "9491104717938008672"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717.commit",
+        "hash": "4664556114322093609"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/index.d.ts",
+        "hash": "17418999719399644446"
+      },
+      {
+        "file": ".nx/cache/13252984187245819717/outputs/packages/itpr-client-ui/dist/components/fancy-button.js",
+        "hash": "6201986566977778426"
+      },
+      {
+        "file": ".git/objects/7a/ea8ff6cbdc525846a80c9c0af7b3aa42bd9556",
+        "hash": "16406337297626720873"
+      },
+      {
+        "file": ".git/COMMIT_EDITMSG",
+        "hash": "6750974369894012570"
+      },
+      {
+        "file": ".git/objects/35/db6753f4745e1f94fffffed21b671ce1bd9b17",
+        "hash": "15980348858814651149"
+      },
+      {
+        "file": ".git/objects/c1/7343d762fbce3e7f05c5af9c49561f7179eaaf",
+        "hash": "12595858114305976811"
+      },
+      {
+        "file": ".git/objects/54/e7e558ddb3fc0e78801de9d00890a99490ee85",
+        "hash": "4701592636451927147"
+      },
+      {
+        "file": ".git/objects/4e/cfc80508a963473d6cbd3ec7bca78a30cf925d",
+        "hash": "5849051127593984247"
       }
     ],
     "projectFileMap": {
+      "empty-project": [
+        {
+          "file": "packages/empty-project/package.json",
+          "hash": "1075554271831509549"
+        }
+      ],
+      "itpr-client-ui": [
+        {
+          "file": "packages/itpr-client-ui/dist/components/fancy-button.d.ts",
+          "hash": "10685521142980809044"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/components/fancy-button.d.ts.map",
+          "hash": "3751685381395563077"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/components/fancy-button.js",
+          "hash": "6201986566977778426"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/components/fancy-button.js.map",
+          "hash": "426772339905533051"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/index.d.ts",
+          "hash": "17418999719399644446"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/index.d.ts.map",
+          "hash": "6555788897973763665"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/index.js",
+          "hash": "12396738411884161396"
+        },
+        {
+          "file": "packages/itpr-client-ui/dist/index.js.map",
+          "hash": "11875490763154891236"
+        },
+        {
+          "file": "packages/itpr-client-ui/package.json",
+          "hash": "7840015087192118933",
+          "deps": [
+            "npm:@types/react",
+            "npm:typescript",
+            "npm:react"
+          ]
+        },
+        {
+          "file": "packages/itpr-client-ui/src/README.md",
+          "hash": "4820660425581752475"
+        },
+        {
+          "file": "packages/itpr-client-ui/src/components/fancy-button.tsx",
+          "hash": "13971551102630888633"
+        },
+        {
+          "file": "packages/itpr-client-ui/src/index.tsx",
+          "hash": "9688041127253337541"
+        },
+        {
+          "file": "packages/itpr-client-ui/tsconfig.json",
+          "hash": "14422084339033602349"
+        }
+      ],
       "itpr-client-remix": [
         {
           "file": "apps/itpr-client-remix/.eslintrc.cjs",
@@ -272,71 +409,6 @@
         {
           "file": "apps/itpr-client-remix/vite.config.ts",
           "hash": "13261507087725994784"
-        }
-      ],
-      "itpr-client-ui": [
-        {
-          "file": "packages/itpr-client-ui/dist/components/fancy-button.d.ts",
-          "hash": "10685521142980809044"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/components/fancy-button.d.ts.map",
-          "hash": "3751685381395563077"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/components/fancy-button.js",
-          "hash": "6201986566977778426"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/components/fancy-button.js.map",
-          "hash": "426772339905533051"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/index.d.ts",
-          "hash": "17418999719399644446"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/index.d.ts.map",
-          "hash": "6555788897973763665"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/index.js",
-          "hash": "12396738411884161396"
-        },
-        {
-          "file": "packages/itpr-client-ui/dist/index.js.map",
-          "hash": "11875490763154891236"
-        },
-        {
-          "file": "packages/itpr-client-ui/package.json",
-          "hash": "7840015087192118933",
-          "deps": [
-            "npm:@types/react",
-            "npm:typescript",
-            "npm:react"
-          ]
-        },
-        {
-          "file": "packages/itpr-client-ui/src/README.md",
-          "hash": "4820660425581752475"
-        },
-        {
-          "file": "packages/itpr-client-ui/src/components/fancy-button.tsx",
-          "hash": "13971551102630888633"
-        },
-        {
-          "file": "packages/itpr-client-ui/src/index.tsx",
-          "hash": "9688041127253337541"
-        },
-        {
-          "file": "packages/itpr-client-ui/tsconfig.json",
-          "hash": "14422084339033602349"
-        }
-      ],
-      "empty-project": [
-        {
-          "file": "packages/empty-project/package.json",
-          "hash": "1075554271831509549"
         }
       ]
     }

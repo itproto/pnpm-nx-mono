@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "pnpm -r --parallel  run dev",
     "dev:remix": "nx itpr-client-remix run dev",
-    "graph": "nx graph"
+    "graph": "npx nx graph",
+    "ci:affected": "npx nx affected:build"
   },
   "keywords": [],
   "author": "",
