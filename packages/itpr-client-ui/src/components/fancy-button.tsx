@@ -5,6 +5,7 @@ interface FancyButtonProps {
 }
 
 export const FancyButton: React.FC<FancyButtonProps> = ({ label }) => {
+    console.log('I am affected')
     return (
         <button className="fancy-button">
             {label}!!!
