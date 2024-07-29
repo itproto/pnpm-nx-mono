@@ -1,0 +1,31 @@
+{
+    "tasksRunnerOptions": {
+        "default": {
+            "runner": "nx/tasks-runners/default",
+            "options": {
+                "cacheableOperations": [
+                    "build",
+                    "test",
+                    "lint"
+                ],
+                "parallel": true,
+                "maxParallel": 3
+            }
+        }
+    },
+    "targetDefaults": {
+        "build": {
+            "inputs": [
+                "!{projectRoot}/**/*.md"
+            ],
+            "dependsOn": [
+                "^build"
+            ]
+        },
+        "dev": {
+            "dependsOn": [
+                "^build"
+            ]
+        }
+    }
+}

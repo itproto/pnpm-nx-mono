@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm -r --parallel  run dev"
+    "dev": "pnpm -r --parallel  run dev",
+    "dev:remix": "nx itpr-client-remix run dev",
+    "graph": "nx graph"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "^19.5.3"
+  }
 }
