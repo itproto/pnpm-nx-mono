@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "npm run clean && tsc",
+    "dev": "tsc --watch",
     "clean": "rm -rf dist"
   },
   "license": "ISC",

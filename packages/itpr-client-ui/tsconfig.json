@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
-        "module": "CommonJS",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "module": "ESNext", // or "ESModule"
         "allowJs": true,
         "skipLibCheck": true,
         "esModuleInterop": true,

@@ -7,7 +7,7 @@ interface FancyButtonProps {
 export const FancyButton: React.FC<FancyButtonProps> = ({ label }) => {
     return (
         <button className="fancy-button">
-            {label}
+            {label}!!!
         </button>
     );
 };
